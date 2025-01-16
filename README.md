@@ -1,2 +1,2 @@
-# Fake News Detection Project
-Trying out stuff by watching YouTube videos and tutorials
+# Trying Out a Fake News Detection Project
+Guided by Dr. Neha Singh (additional help via YouTube tutorials) 
